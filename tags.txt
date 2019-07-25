@@ -1,0 +1,35 @@
+<title></title> - название статьи
+<author></author> - авторы статьи
+
+<abstract></abstract> - аннотация
+<key_words></key_words> - ключевые слова
+
+<introduction></introduction> - вступление
+<main></main> - основная часть (если статья состоит только из 3 частей)
+<experimental part></experimental part> - экспериментальная часть
+<results></results> - результаты
+<conclusion></conclusion> - заключение
+
+<bibliography></bibliography> - список литературы
+<references></references> - ссылки
+
+<subtitles></subtitles> - подзаголовки
+<picture></picture> - рисунок и подписи к нему
+<table></table> - таблицы
+<list of abbreviations></list of abbreviations> - список сокращений
+
+
+
+<title></title>
+<author></author> 
+
+<abstract></abstract>
+<key_words></key_words>
+
+<introduction></introduction> 
+
+<main></main> 
+
+<conclusion></conclusion>
+
+<bibliography></bibliography>
