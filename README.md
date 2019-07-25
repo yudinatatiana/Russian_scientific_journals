@@ -5,24 +5,21 @@
 ## Описание корпуса:
 В корпусе используются следующие тэги-разделы: 
 
-<title></title> - название статьи
-<author></author> - авторы статьи
-<abstract></abstract> - аннотация
-<key_words></key_words> - ключевые слова
-
-<introduction></introduction> - вступление
-<main></main> - основная часть (если статья состоит только из 3 частей)
-<experimental part></experimental part> - экспериментальная часть
-<results></results> - результаты
-<conclusion></conclusion> - заключение
-
-<bibliography></bibliography> - список литературы
-<references></references> - ссылки
-
-<subtitles></subtitles> - подзаголовки
-<picture></picture> - рисунок и подписи к нему
-<table></table> - таблицы
-<list of abbreviations></list of abbreviations> - список сокращений
+1.	<title></title> - название статьи
+2.	<author></author> - авторы статьи
+3.	<abstract></abstract> - аннотация
+4.	<key_words></key_words> - ключевые слова
+5.	<introduction></introduction> - вступление
+6.	<main></main> - основная часть (если статья состоит только из 3 частей)
+7.	<experimental part></experimental part> - экспериментальная часть
+8.	<results></results> - результаты
+9.	<conclusion></conclusion> - заключение
+10.	<bibliography></bibliography> - список литературы
+11.	<references></references> - ссылки
+12.	<subtitles></subtitles> - подзаголовки
+13.	<picture></picture> - рисунок и подписи к нему
+14.	<table></table> - таблицы
+15.	<list of abbreviations></list of abbreviations> - список сокращений
 
 ## Примечание: 
 Если в корпусе встречается ваша работа, которую вы бы хотели удалить, просьба написать на почту tayudina_2@edu.hse.ru
