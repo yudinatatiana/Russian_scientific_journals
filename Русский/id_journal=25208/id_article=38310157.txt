@@ -1,0 +1,145 @@
+<title>Особенности устройства различных вариантов кровельных покрытий с системами озеленения</title>
+<author>Е.А.Король, НИУ МГСУ, Москва Н.С.Шушунова, НИУ МГСУ, Москва</author>
+
+<abstract>Выявление новых тенденций развития в городском пространстве с учётом формирования архитектурно-средовой  концепции города и изменения потребностей жителей  города является актуальной проблемой современного градостроительства. Озеленение городских пространств, предполагающее использование систем озеленения на стеновых и  кровельных покрытиях зданий, является важным и полезным  элементом градоформирующего потенциала жилищного комплекса в формировании городского пространства.
+
+Устройство кровельных и фасадных покрытий с системами озеленения полезно для окружающей среды, потому что  такие покрытия «оздоравливают» здания, снижая выбросы,  затраты на отопление и охлаждение, фильтруют осадки, а также улучшают качество воздуха, улавливая загрязнения. 
+
+«Зелёные» крыши предлагают решение этих проблем, потому что они поглощают дождевую воду и снижают уровень  вредных испарений в воздухе, улучшая процесс внутреннего  охлаждения зданий и уменьшая потребность в кондиционировании воздуха. Преобразование общественных пространств  позволяет формировать новый многоуровневый каркас с «зелёными» зонами. Устройство кровельных покрытий с системами озеленения имеет отличительные особенности,  которые следует учитывать в процессе производства работ.  Проведён анализ технологических процессов устройства эксплуатируемых кровельных покрытий с системами озеленения и  поиск оптимальных конструктивно-технологических решений.  В исследовании использовался метод сравнительного анализа  различных вариантов устройства кровельных покрытий с системами озеленения. Приведены различные типы «зелёных» крыш  в зависимости от нагрузки на покрытие здания: экстенсивный  и интенсивный тип озеленения. В исследовании приводится  анализ различных вариантов устройства кровельных покрытий  с системами озеленения на основе сравнения показателей  трудоёмкости работ при их устройстве.</abstract>
+
+<key_words>Ключевые слова: «зелёная» кровля, показатели трудоёмкости, технологии «зелёного строительства», системы озеленения, эксплуатируемые кровельные покрытия.</key_words>
+
+<title>Features of the Installation of Various Options for  Roofing with Greening Systems</title>
+<author>E.A.Korol, NIU MGSU, Moscow N.S.Shushunova, NIU MGSU, Moscow</author>
+
+<abstract>Identification of new development trends in the urban  space, taking into account the formation of the architectural  and environmental concept of the city and the changing needs  of city residents, is an urgent problem of modern urban planning.  Gardening urban spaces, involving the use of gardening systems  on the wall and roof coverings of buildings, is an important and  useful element of the building-forming potential of the housing  complex in the formation of urban space.
+
+Installation of roofing and facade coverings with  landscaping systems is good for the environment, because  such coatings “heal” buildings, reducing emissions, heating and  cooling costs, filter precipitates, and also improve air quality,  catching pollution.
+
+Green roofs offer a solution to these problems, because  they absorb rainwater and reduce the level of harmful fumes  in the air, improving the building's internal cooling process  and reducing the need for air conditioning. Transformation  of public spaces allows you to create a new multi-level frame  with "green" zones. The device of roofing with landscaping  systems has distinctive features that should be considered in  the production process. The analysis of technological processes  of the device operated roofing with landscaping systems and  the search for optimal structural and technological solutions.  The study used a method of comparative analysis of various  options for the device roofing with landscaping systems.  Various types of "green" roofs are given depending on the load  on the building's coating: an extensive and intensive type of  gardening. The study provides an analysis of various options  for the device roofing with landscaping systems on the basis  of a comparison of the indicators of the complexity of the work  at their device.</abstract>
+
+<key_words>Keywords: green roof, labor intensity indicators, green  building technology, greening systems, operated roofing.</key_words>
+
+<introduction>Актуальность темы исследования определяется тем, что в настоящее время в строительстве увеличивается применение современных экологичных архитектурно-технологических решений, таких как эксплуатируемые кровельные  покрытия с системами озеленения. Вместе с тем следует  отметить, что технологии «зелёного строительства» получили  широкое распространение на Западе и в США в то время, как  в России эти технологии только начинают своё развитие. В практике современного строительства при проектировании  эксплуатируемых кровель всё чаще используют озеленение  стен и кровельных покрытий зданий и других объектов строительства, что отвечает современным принципам экологичного и «зелёного урбанизма» (рис. 1). Во многом определение  элементов средового дизайна в создании эргономичных  архитектурных форм и композиций подчинено принципам комплексности и синтеза проектного существования [1]. Под проектным существованием понимают состояние в стадии прототипа и готовности к реализации архитектурных  или конструктивно-технологических решений. Озеленённые  пространства являются неотъемлемой частью европейских  университетов, к примеру знаменитые газоны университетов  в Оксфорде и Кембридже (Великобритания) [2]. 
+
+При намеченных тенденциях роста использования «зелёных технологий» в строительстве, которые, в свою очередь,  требуют реализации экологических проектов, особая роль  отводится государству, так как это связано с развитием нормативно-технической базы организационно-технологического  проектирования. В последние годы ведётся разработка новых  типов безопасных строительных материалов, к примеру, цемента, обладающего биоцидными свойствами [3]. По данны.  Программы ООН по окружающей среде (ЮНЕП), на строительный сектор приходится 40% общего потребления энергии. В европейских странах 36% всех выбросов парниковых газов  приходится на здания, в этом отношении «зелёные» крыши  считаются одними из наиболее подходящих для решения  проблем, связанных с эффектом «теплового острова», при  этом площадь крыш составляет почти 20–25% общей площади  городских территорий [4]. 
+
+Целью исследования в рамках диссертационной работы,  выполненной автором на базе НИУ МГСУ, было проведение  анализа технологических процессов устройства эксплуатируемых кровельных покрытий с системами озеленения и поиск оптимальных конструктивно-технологических решений. В исследовании использовался метод сравнительного анализа различных вариантов устройства кровельных покрытий с системами озеленения.</introduction>
+
+<main>В работах В.И. Теличенко и М.Ю. Слесарева предлагагается  решить проблемы экологической безопасности городской  среды при размещении в ней отдельных объектов строительства [5; 16], оцениваются действующие стандарты «зелёного  строительства» и предложены пути его развития. Для оценки  энергосберегающих проектов с использованием технологий  «зелёного строительства» используются рейтинговые системы оценки [6]. Практика экспериментального строительства  показывает, что число проектов, связанных с внедрением технологий «зелёного строительства» растёт с каждым годом. Так,  проекты строительства и реконструкции с использованием  многослойных кровельных покрытий с системами озеленения  могут быть внедрены как в объектах жилого и общественного  назначения, так и на промышленных объектах [7–9].
+
+Системы «зелёных» крыш могут различаться, при этом они  имеют ряд преимуществ по сравнению с устройством традиционных типов крыш [10]. В зависимости от нагрузки на покрытие здания различают следующие типы «зелёных» крыш:
+
+– экстенсивный тип озеленения: небольшие слои почвы,  которые поддерживают в основном седумы (сочные растения,  которые нуждаются в небольшом количестве воды) и травы;  как правило, не предназначены для использования людьми,  кроме их обслуживания;
+
+– интенсивный тип озеленения: более мощные слои почвы,  которые могут поддержать много различных типов растений,  даже деревьев; как правило, имеют проходы, скамейки или  другие сооружения, которые предусматривают возможность  проводить на этих кровлях время (эксплуатируемые кровли).
+
+На рисунке 2 представлен жилой комплекс «Вальтшпирале» (Waldspirale) в Дармштадте (Германия), построенный<picture>Рис. 1. Применение систем озеленения на различных объектах строительства: а) покрытие с озеленением в Сан-Франциско (источник: https://news.nationalgeographic.com/content/dam/news/2016/09/27/san-francisco-green-roofs/san-francisco-greenroofs.jpg); б) зелёные зоны в общественных местах, проект компании «Optigreen» (источник: http://www.optigreen.co.uk/fileadmin/_processed_/csm_VD_3-1_ffdc97acd7.jpg)</picture> в 1990-х годах. Название переводится на русский язык как «лесная спираль», отражая как общий план здания, так и то, что у него есть «зелёная» крыша. Он был разработан австрийским художником Фриденсрайхом Хундертвассером, спроектирован и реализован архитектором Хайнцем М. Спрингманном и построен компанией «Бауфаен Дармштат» (Bauverein Darmstadt) в 2000 году. Этот комплекс с «зёленой» крышей имеет 105 квартир, жилую и коммерческую парковку для посетителей кафе и бара, последние две расположены на вершине спирали. Внутренний двор содержит игровую площадку для детей и небольшое искусственное озеро (интенсивный тип озеленения). 
+
+Ярким примером применения экстенсивного типа озеленения на кровлях зданий образовательных учреждений является Школа бизнеса «Росс» (Ross) (университет штата Мичиган) [11]. Газон обрамляет территорию университета, обозначая границу кампуса, объединяя корпуса в единую композицию, и заходит на его территорию зелёными клиньями, образующими рекреационные зоны (рис. 3).
+
+В исследовании экстенсивных типов озеленения проводится сравнение температуры традиционных и «зелёных» крыш, засаженных седумом вида Sedum sediforme (Jacq.) Pau, и «зелёных» крыш с однолетними растениями [12]. Для определения влияния климата на вегетацию растений  «зелёной крыши» в трёх городах Канады, имитировавших различные климатические условия: Калгари, Лондон и Галифакс (Новая Шотландия), – устроили «зелёные» крыши одинакового типа, исследовали их в течение трёх вегетационных периодов по следующим критериям: выживание растений, высота и рост растений следующих различных видов (и при различных способах посадки): Aquilegia canadensis, Sporobolus heterolepis и Sedum spurium. Высота и темпы роста растений различались в зависимости от города, вида  растений и толщины субстрата [13].
+
+Экспериментальная «зелёная» крыша проектного бюро «APDesign» с доступом в конференц-зал была построена исследовательской группой из Канзасского государственного университета летом 2017 года (рис. 4). На этой «зелёной» крыше можно выделить три конструктивно-технологических решения, каждое из которых имеет три разных размера толщины слоёв кровли: 4, 6 и 8 дюймов. Каждое многослойное конструктивное решение содержит два разных типа субстрата: Kansas BuildEx и Rooflite Extensive MC. В грунт типа Kansas BuildEx добавлен песок, органические удобрения и торфяной мох. В каждом субстрате присутствуют три  смеси видов растений: смесь всех седумов, смесь седумов и местных трав, а также смесь местных трав. Каждый участок площадью примерно 1,5 квадратных метра содержит 18 растений шести видов. Все покрытие разделено на 24 участка. Этот проект позволяет понять, как различные типы растительности взаимодействуют на различных типах субстрата и на какую глубину их предпочтительно высаживать [14]. На «зёленых» крышах в Китае были проведены эксперименты  с измерениями четырёх структурных факторов по моделированию осадков и выявлены значительные различия в движении сточных вод [15].
+
+Покрытие кровли представляет собой сложную многослойную конструкцию. На рисунке 5 детально показано<picture>Рис. 2. Пример интенсивного типа озеленения – кровельное  покрытие жилого комплекса «Вальтшпирале» (Waldspirale) в Дармштадте. Германия (источник: https://joor.me/uploads/block/2016-06-17/22/e7/JwmjqTSJLMZ98iTtxo3WBKpTmAbGvbhd.jpg)
+
+Рис. 3. Пример экстенсивного типа озеленения – кровельное покрытие школы бизнеса «Росс» (Ross). Город Энн-Арбор, штат Мичиган, США (источник: https://2018.annualreport.umich.edu/wp-content/uploads/sites/56/mc-imagecache/2018/10/2018-FinRep-Major-Projects_Ross-Aerial.jpg)
+
+Рис. 4. Устройство экспериментальной «зелёной» крыши  по разработкам проектного бюро «APDesign» (источник: https://www.k-state.edu/greenroofs/apdesign.html)</picture> устройство различных видов покрытий с разными типами  систем озеленения кровли. 
+
+Трудоёмкость устройства различных систем «зелёной» крыши, имеющих ряд компонентов-слоёв, представлена на рисунке 6:
+
+I. Трудоемкость устройства несущей конструкции (Qbs);
+
+II. Трудоемкость устройства подкровельной конструкции (Уровни 1-7, Qml);
+
+III. Трудоемкость устройства эксплуатируемого покрытия (Уровни 8-10, Qос);
+
+IV. Общая трудоемкость устройства кровли (Qtot).
+<picture>Рис. 5. Конструктивные решения эксплуатируемых кровель: а) кровля c системами сплошного озеленения; б) кровля с системами модульного озеленения. Несущее основание: 1 – плита перекрытия; многослойная подкровельная система; 2 – уклонообразующий слой; 3 – цементно-песчаная стяжка; 4 – гидроизоляция «Техноэласт» ЭПП; 5 – иглопробивной геотекстиль развесом 300 г/кв.м; 6 – экструзионный пенополистирол; 7 – термоскреплённый геотекстиль развесом 150 г/кв.м; 8 – гидроизоляция «Техноэласт» ГРИН; 9 – дренажная мембрана; 10 – растительный субстрат с зелёными насаждениями; 11 – регулируемая опора; 12 – решётчатый настил (керамическая плитка); 13 – модуль с зелёными насаждениями 
+Рис. 6. Пирамида иерархической структуры показателей трудоёмкости устройства кровли: Q1A, Q2A… Q10A – трудоёмкости возведения кровли по уровням 1, 2…10; A, B…N – различные способы устройства 1, 2...10 слоёв кровли</picture>
+Установлены возможные варианты устройства различных слоёв конструкции кровли для последующей оценки их технологичности. Так, трудоёмкость устройства теплоизоляционного  слоя может варьироваться в зависимости от применяемого  способа устройства:
+– укладка экструзионного пенополистирола в 1 слой, Q5A = 5 чел.ч.;
+– укладка минеральной ваты в 1 слой, Q5В = 7,2 чел.ч.; 
+– засыпка керамзита, Q5C = 9,4 чел.ч.;
+– укладка лёгкой бетонной смеси, Q5D = 4,6 чел.ч.
+При этом устройство систем озеленения также может быть  различным: модульное или сплошное. Так, трудоёмкость устройства модульной системы озеленения сравнивается с трудоёмкостью устройства сплошных «зелёных» крыш (Q9A v Q9B). 
+
+Архитектура современного мегаполиса предполагает наличие элементов озеленённого общественного пространства, что  обеспечивает развитие экологической концепции городской  среды. «Зелёная» архитектура позволяет городу «дышать». К таким элементам городской среды относят применение зелёных насаждений на кровлях зданий различных учреждений, а также на прилегающих к ним территориях.</main>
+
+<conclusion>На основе проведённого исследования был выполнен анализ существующих зелёных кровель. Оптимальный вариант устройства эксплуатируемого покрытия определили при помощи  иерархической структуризации показателей трудоёмкости для  различных вариантов устройства кровельных покрытий с системами озеленения. Таким образом, наиболее целесообразным является решение устройства «зелёной» кровли с применением  модульных конструкций, так как при увеличении трудоёмкости  при озеленении на кровле общая трудоёмкость работ по устройству таких покрытий будет минимальной, если сравнивать различные варианты устройства кровельных покрытий.</conclusion>
+
+<bibliography>Литература
+1. Cавинкин В.В. Двенадцать сюжетов из лекций основателя  кафедры «Дизайн архитектурной среды» МАРХИ Георгия Борисовича Минервина (1918–1997) / В.В. Савинкин // Academia. Архитектура и строительство. – 2018. – № 4. – С. 150–156. 
+
+2. Е.С. Палей. Озеленённое общественное пространство в композиции современных университетских кампусов Европы / Е.С. Палей // Academia. Архитектура и строительство. – 2017. – № 4. – С. 55–62.
+
+3. Development of Biocidal Cements for Buildings and Structures with Biologically Active Environments / V.I. Travush, N.I. Karpenko, , V.T. Erofeev [et al] // Power Technology and Engineering. –2017. – Vol. 51, Issue 4. – Pp. 377–384.
+
+4. Ahmet B. Besir. Green roofs and facades: A comprehensive review / Ahmet B. Besir, Erdem Cuce // Renewable and Sustainable Energy Reviews. – 2018. – Vol. 82, Part 1. – Pp. 915–939.
+
+5. Теличенко В.И. От экологического и «зелёного» строительства – к экологической безопасности строительства / В.И. Теличенко // Промышленное и гражданское строительство. – 2011. –№ 2. – С. 47–51.
+
+6. Лукинов В.А. Рейтинговая оценка энергосберегающих проектов с использованием технологий «зелёного строительства» / В.А. Лукинов, И.Г. Дьяков // Недвижимость: экономика, управление. – 2015. – № 2. – C. 26–29.
+
+7. Король Е.А. Реконструкция предприятий текстильной промышленности с использованием кровельных покрытий с системами озеленения [Электронный ресурс] / Е.А. Король, И.Я. Киселёв, Н.С. Шушунова // Технология текстильной промышленности. Серия: «Известия высших учебных заведений». – 2018. – № 3 (375). – С. 294–300. – Режим доступа: http://ttp.ivgpu.com/wp-content/uploads/2018/10/375_59.pdf (дата обращения 25.04.2019).
+
+8. Korol, S.P. Innovation technologies in Green Roof systems [Электронный ресурс] / S.P. Korol, , N.S. Shushunova, T.N. Shushunova International Scientific Conference Environmental Science for Construction Industry – ESCI 2018. 2018. Vol. 193, 04009. // EDP Open Website. – Режим доступа: https://doi.org/10.1051/matecconf/201819304009 (дата обращения 15.04.2019).
+
+9. Korol E. Chapter: Modular Green Roofs in Urban Ecospace / Korol E., Shushunova N.S. Published: September 19th 2018. URL: https://www.intechopen.com/books/landscape-architecture-thesense-of-places-models-and-applications/modular-green-roofsin-urban-ecospace.
+
+10. Grooflab [Электронный ресурс] – Режим доступа: https://www.grooflab.com/home (дата обращения 27.01.2019).
+
+11. Green Roofs. How can the University maximize the social and economic benefits of installing green roofs on campus? [Электронный ресурс] // Planet Blue. University of Michigan. – Режим доступа: http://sustainability.umich.edu/environ211/green-roofs (дата обращения 27.01.2019).
+
+12. Cooling Effect of Sedum Sediforme and Annual Plants  on Green Roofs in a Mediterranean Climate / B.Y. Schindler, L. Blaustein, A. Vasl [et al] // Urban Forestry & Urban Greening. – 2019. – Vol. 38. – Pp. 392–396.
+
+13. Plant Survival and Growth on Extensive Green Roofs: A Distributed Experiment in Three Climate Regions / Tran S., Lundholm J.T., Staniec M. // Ecological Engineering. – 2019. – Vol. 127. – Pp. 494–503.
+
+14. KSU Architecture, Planning, and Design Experimental Green Roof [Электронный ресурс] // Kansas State Universitу. – Режим доступа: https://www.k-state.edu/greenroofs/apdesign.html (дата обращения 27.01.2019).
+
+15. The influence of structural factors on stormwater runoff retention of extensive green roofs: new evidence from scale-based models and real experiments / Liu W., Feng Q., Chen W. [et al] // Journal of Hydrology. – 2019. – Vol. 569. – Pp. 230–238.
+
+16. Теличенко В.И. Проблема и решение оценки экологической безопасности в мегаполисе / В.И. Теличенко, М.Ю Слесарев // Экология урбанизированных территорий. – 2013. – № 1. – С. 13–17.</bibliography>
+
+<references>References
+1. Savinkin V.V. Dvenadtsat' syuzhetov iz lektsiy Georgiya  Borisovicha Minervina (1918–1997), osnovatelya kafedry «Dizayn arkhitekturnoy sredy» Moskovskogo arkhitekturnogo instituta [Twelve plots from the lectures of Georgy Borisovich Minervin (1918–1997), founder of the department “Design of architectural environment” of the Moscow Architectural Institute]. Academia. Arkhitektura i stroitel'stvo [Academia. Architecture and Construction], 2018, no. 4, pp.150–156. 
+
+2. Paley E.S. Ozelenonnoye obshchestvennoye prostranstvo v kompozitsii sovremennykh universitetskikh kampusov Yevropy [Green space in the composition of modern university campuses  in Europe]. Academia. Arhitektura i stroitel'stvo [Academia. Architecture and Construction], 2017, no. 4, pp.55–62. 
+
+3. Travush V.I., Karpenko N.I., Erofeev V.T., Rodin A.I., Smirno.  V.F. Development of Biocidal Cements for Buildings and Structures with Biologically Active Environments. Power Technology and Engineering, November 2017, Vol. 51, Issue 4, pp. 377–384.
+
+4. Ahmet B. Besir, Erdem Cuce. Green Roofs and Facades : a Comprehensive Review. Renewable and Sustainable Energy Reviews.  Vol. 82, Part 1, February 2018, pp. 915–939.
+
+5. Telichenko V. I. Ot ekologicheskogo i "zelenogo" stroitel'stva – k ekologicheskoy bezopasnosti stroitel'stva [From ecological and "green" construction – to the ecological safety of construction]. Promyshlennoye i grazhdanskoye stroitel'stvo [Industrial and civil engineering], 2011, no. 2, pp. 47–51.
+
+6. Lukinov V.A., D'yakov I.G. Reytingovaya otsenka energosberegayushchikh proyektov s ispol'zovaniyem tekhnologiy "zelenogo stroitel'stva" [Rating assessment of energy-saving projects using "green building" technologies]. Nedvizhimost': ekonomika, upravleniye [Real Estate: Economics, Management], 2015, Vol. 2, pp. 26–29.
+
+7. Korol E.A., Kiselev I.YA., Shushunova N.S. Rekonstruktsiya predpriyatiy tekstil'noy promyshlennosti s ispol'zovaniyem krovel'nykh pokrytiy s sistemami ozeleneniya [Reconstruction  of textile industry enterprises using roofing with landscaping  systems]. Izvestiya vysshikh uchebnykh zavedeniy. Tekhnologiya tekstil'noy promyshlennosti. [News of higher educational institutions.  Technology textile industry], 2018, Vol. 3 (375), pp. 294–300. URL: http://ttp.ivgpu.com/wpcontent/uploads/2018/10/375_59.pdf 
+
+8. Korol S.P., Shushunova N.S., Shushunova T.N. Innovation  technologies in Green Roof systems. Matec Web of Conferences, 2018, Vol. 193, 04009. URL: https://doi.org/10.1051/matecconf/201819304009.
+
+9. Korol E., Shushunova N., Chapter: Modular Green Roofs in Urban Ecospace. Published: September 19th 2018. URL: https://www.intechopen.com/books/landscape-architecture-the-senseof-places-models-and-applications/modular-green-roofs-inurban-ecospace.
+
+10. Grooflab [Elektronnyy resurs]. URL: https://www.grooflab.com/home (Accessed 27.01.2019).
+
+11. Green Roofs. How can the University maximize the social and economic benefits of installing green roofs on campus? [Elektronnyy resurs]. URL: http://sustainability.umich.edu/environ211/green-roofs (accessed 27.01.2019).
+
+12. Schindler B.Y., Blaustein L., Vasl A., Kadas G.J., Seifan M. Cooling effect of Sedum sediforme and annual plants on green roofs  in a Mediterranean climate, Urban Forestry & Urban Greening, Vol. 38, February 2019, pp. 392–396.
+
+13. Tran S., Lundholm J.T., Staniec M., Robinson C.E., O'Carroll D.M. Plant survival and growth on extensive green roofs: A distributed experiment in three climate regions, Ecological Engineering, Vol. 127, February 2019, pp. 494–503.
+
+14. KSU Architecture, Planning, and Design Experimenta.  Green Roof [Elektronnyy resurs]. URL: https://www.k-state.edu/greenroofs/apdesign.html (accessed 27.01.2019).
+
+15. Liu W., Feng Q., Chen W., Wei W., Deo R.C. The influence of structural factors on stormwater runoff retention of extensive green roofs: new evidence from scale-based models and real experiments. Journal of Hydrology, Vol. 569, February 2019, pp. 230–238.
+
+16. Telichenko V.I., Slesarev M.YU. Problema i resheniye otsenki ekologicheskoy bezopasnosti v megapolise [Problem and solution  to assessing environmental safety in a megacity]. Ekologiya urbanizirovannykh territoriy [Ecology of urbanized territories], 2013, no. 1, pp. 13–17.</references> 
+
+<author>Король Елена Анатольевна (Москва). Доктор технических наук, профессор. Заведующая кафедрой «Жилищно-коммунальный  комплекс» ФГБОУ ВО «Национальный исследовательский Московский государственный строительный университет» (129337, Москва, Ярославское шоссе, 26). Эл.почта: professorkorol@mail.ru.
+
+Шушунова Наталья Сергеевна (Москва). Аспирантка кафедры «Жилищно-коммунальный комплекс», преподаватель кафедры «Комплексная безопасность в строительстве» ФГБОУ ВО «Национальный исследовательский Московский государственный  строительный университет» (129337, Москва, Ярославское шоссе, 26). Эл.почта: nshushun@gmail.com. 
+
+Korol Elena Anatolievna (Moscow). Doctor of Technical Sciences, Professor. Head of the Department «Housing and Communal Сomplex» of the «National Research Moscow State University of Civil Engineering» (129337, Russian Federation, Moscow, 26 Yaroslavskoe Shosse). E-mail: professorkorol@mail.ru
+
+Shushunova Natalia Sergeevna (Moscow). Postgraduate student of Department Department «Housing and Communal Сomplex», Lecturer of the Department “Сomplex safety in construction» of the «National Research Moscow State University of Civil Engineering» (129337, Russian Federation, Moscow, 26 Yaroslavskoe Shosse). E-mail: nshushun@gmail.com</author>
