@@ -17,19 +17,3 @@
 <picture></picture> - рисунок и подписи к нему
 <table></table> - таблицы
 <list of abbreviations></list of abbreviations> - список сокращений
-
-
-
-<title></title>
-<author></author> 
-
-<abstract></abstract>
-<key_words></key_words>
-
-<introduction></introduction> 
-
-<main></main> 
-
-<conclusion></conclusion>
-
-<bibliography></bibliography>
